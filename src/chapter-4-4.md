@@ -3,11 +3,6 @@ Case Studies on ChatGPT-based Cleaning Service Management
 
 In this chapter, we will introduce ChatGPT, an advanced form of chatbot powered by natural language processing and machine learning. We will also explore case studies of how ChatGPT has been used in cleaning service management to improve efficiency, customer satisfaction, and overall business performance.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a powerful tool that can provide efficient and personalized support to customers. It uses natural language processing and machine learning to understand customer inquiries and respond with relevant information or actions. Additionally, it can automate routine tasks, reducing the workload on human support agents and optimizing operations.
-
 Case Studies on ChatGPT-based Cleaning Service Management
 ---------------------------------------------------------
 

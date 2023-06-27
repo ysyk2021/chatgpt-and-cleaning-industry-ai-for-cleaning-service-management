@@ -3,11 +3,6 @@ Advantages of Using ChatGPT in Cleaning Service Management
 
 In this chapter, we will introduce ChatGPT and discuss the advantages of using ChatGPT in cleaning service management. ChatGPT is an AI-powered chatbot that uses natural language processing and machine learning algorithms to communicate with customers and automate repetitive tasks.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a state-of-the-art AI-powered chatbot developed by OpenAI. It uses transformer-based language models to generate human-like responses to customer inquiries and requests. ChatGPT can be trained on large amounts of data, allowing it to learn and adapt to customer preferences and behavior.
-
 Advantages of Using ChatGPT in Cleaning Service Management
 ----------------------------------------------------------
 
