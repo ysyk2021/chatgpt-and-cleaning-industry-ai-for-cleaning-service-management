@@ -1,5 +1,4 @@
-Chapter 5: Implementation of ChatGPT in Cleaning Service Management
-===================================================================
+
 
 In this chapter, we will discuss the implementation of ChatGPT in cleaning service management. This includes planning and designing ChatGPT for cleaning service management, integrating it with existing systems, training ChatGPT, managing conversations, and evaluating its performance and effectiveness.
 

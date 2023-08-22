@@ -1,5 +1,4 @@
-What is Cleaning Service Management?
-==========================================================================================
+
 
 Cleaning service management involves the coordination and organization of cleaning services to maintain clean and healthy environments. It includes managing cleaning staff, scheduling cleaning services, selecting cleaning products and equipment, and ensuring that cleaning standards are met.
 

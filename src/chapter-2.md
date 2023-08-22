@@ -1,5 +1,4 @@
-Chapter 1: Understanding Cleaning Service Management
-====================================================
+
 
 In this chapter, we will provide an overview of cleaning service management. We will discuss what it is, the history and evolution of cleaning service management, the types of cleaning service techniques used today, and the limitations and challenges associated with cleaning service management.
 

@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 In this book, we have explored the potential of ChatGPT and AI in cleaning service management. Here is a summary of the key points covered:
 
