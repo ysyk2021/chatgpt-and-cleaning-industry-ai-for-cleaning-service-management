@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of chatbots and AI in cleaning service management. Chatbots are AI-powered systems that use natural language processing and machine learning to provide support and assistance to customers in the cleaning industry. AI refers to a broader set of technologies, including machine learning, computer vision, and robotics, that can be used to optimize cleaning service management.
 
 Chatbots

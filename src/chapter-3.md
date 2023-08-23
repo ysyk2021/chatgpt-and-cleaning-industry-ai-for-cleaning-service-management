@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of chatbots and AI in cleaning service management. We will discuss the advantages of using these technologies, as well as the types of chatbots used in cleaning service management. Finally, we will explore the challenges and limitations associated with using chatbots in cleaning service management.
 
 An Overview of Chatbots and AI in Cleaning Service Management

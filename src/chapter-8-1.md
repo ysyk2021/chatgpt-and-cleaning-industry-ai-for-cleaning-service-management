@@ -1,5 +1,4 @@
 
-
 In this book, we have explored the potential of ChatGPT and AI in cleaning service management. Here is a summary of the key points covered:
 
 * Cleaning service management involves coordinating and organizing cleaning services to maintain clean and healthy environments.

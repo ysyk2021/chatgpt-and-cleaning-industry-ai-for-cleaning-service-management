@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the first step in implementing ChatGPT in cleaning service management: planning and designing the chatbot. This step is crucial to ensure that the chatbot meets the specific needs and goals of the cleaning company.
 
 Identifying Goals and Objectives

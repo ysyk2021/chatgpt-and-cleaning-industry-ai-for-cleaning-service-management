@@ -1,5 +1,4 @@
 
-
 In this book, we have explored the potential of ChatGPT and AI in cleaning service management. By providing personalized support, real-time monitoring, and automation of routine tasks, ChatGPT can improve efficiency, customer satisfaction, and overall business performance.
 
 Implications and Significance of the Study

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the implementation of ChatGPT in cleaning service management and evaluate its performance and effectiveness. By automating repetitive tasks and providing personalized customer service, ChatGPT can improve efficiency and productivity in cleaning service management.
 
 Implementing ChatGPT in Cleaning Service Management

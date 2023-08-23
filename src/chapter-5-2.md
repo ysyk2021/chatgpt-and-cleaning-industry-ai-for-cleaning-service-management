@@ -1,5 +1,4 @@
 
-
 In this chapter, we will focus on the personalization techniques used in ChatGPT for cleaning service management. By understanding customer needs and preferences, ChatGPT can provide tailored recommendations for cleaning services and products, improving overall customer satisfaction.
 
 Natural Language Processing

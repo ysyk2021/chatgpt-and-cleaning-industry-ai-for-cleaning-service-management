@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT - an AI-powered chatbot designed to provide support and assistance to customers in the cleaning industry.
 
 What is ChatGPT?

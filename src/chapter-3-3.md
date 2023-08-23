@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the various types of chatbots used in cleaning service management. Chatbots are AI-powered systems that use natural language processing and machine learning to provide support and assistance to customers in the cleaning industry.
 
 Rule-Based Chatbots
