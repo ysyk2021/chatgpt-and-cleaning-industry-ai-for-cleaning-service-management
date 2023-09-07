@@ -6,3 +6,7 @@ This book explores the potential of ChatGPT in the cleaning industry by examinin
 By leveraging the power of ChatGPT and other AI technologies, cleaning companies can provide more efficient, effective, and personalized cleaning services for clients. Whether you are a cleaning business owner, cleaning professional, or simply interested in the intersection of AI and cleaning services, this book provides valuable insights into the future of the cleaning industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
