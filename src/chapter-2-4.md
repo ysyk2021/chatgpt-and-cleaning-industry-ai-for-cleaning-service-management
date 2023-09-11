@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Cleaning Service Management
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While incorporating ChatGPT in cleaning service management offers numerous benefits, it is essential to acknowledge the limitations and challenges that may arise. This chapter explores the potential drawbacks and obstacles that businesses in the cleaning service industry may face when implementing AI technologies like ChatGPT.
 

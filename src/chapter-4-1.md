@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced language model developed by OpenAI that utilizes cutting-edge artificial intelligence techniques to generate human-like text-based conversations. It is designed to understand and respond to natural language input, making it a valuable tool for various applications, including cleaning service management.
 

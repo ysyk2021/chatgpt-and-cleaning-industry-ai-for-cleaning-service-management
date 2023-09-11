@@ -1,5 +1,4 @@
-Chapter: What is Cleaning Service Management?
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Cleaning service management encompasses a range of activities and processes aimed at efficiently and effectively organizing, coordinating, and overseeing cleaning services within various environments. This chapter provides an overview of cleaning service management, its key functions, and the significance it holds in the cleaning industry.
 

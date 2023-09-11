@@ -1,5 +1,4 @@
-Chapter: Personalization Techniques Used in ChatGPT for Cleaning Service Management
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Personalization is key to delivering exceptional customer experiences in the cleaning service industry. This chapter explores various techniques used in ChatGPT to provide personalized interactions and services to customers in cleaning service management.
 

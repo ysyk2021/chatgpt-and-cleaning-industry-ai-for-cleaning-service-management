@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Cleaning Service Management
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating ChatGPT in cleaning service management can bring numerous advantages to the industry. This chapter will explore the key benefits of leveraging ChatGPT for enhancing customer support, optimizing operations, and improving overall efficiency in the cleaning service management sector.
 

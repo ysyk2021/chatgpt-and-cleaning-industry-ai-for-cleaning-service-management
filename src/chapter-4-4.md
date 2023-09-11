@@ -1,5 +1,4 @@
-Chapter: Case Studies on ChatGPT-Based Cleaning Service Management
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the cleaning industry has been exploring the integration of AI technologies to improve efficiency, streamline operations, and enhance customer experiences. This chapter presents case studies that showcase the application of ChatGPT in cleaning service management, highlighting its benefits, challenges, and potential for future advancements.
 

@@ -1,5 +1,4 @@
-Chapter: Evaluating ChatGPT's Performance and Effectiveness in Cleaning Service Management
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Evaluating the performance and effectiveness of ChatGPT is crucial to understand its impact on cleaning service management. This chapter delves into various metrics and approaches for assessing ChatGPT's performance, ensuring that it meets the requirements and expectations of businesses in the cleaning industry.
 

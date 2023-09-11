@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training ChatGPT and managing conversations are crucial steps in harnessing the full potential of this language model for cleaning service management. In this chapter, we will explore the process of training ChatGPT and discuss effective strategies for managing conversations with the model.
 

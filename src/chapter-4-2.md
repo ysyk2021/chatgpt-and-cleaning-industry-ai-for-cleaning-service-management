@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT offers a range of powerful features that make it a valuable tool for cleaning service management. This chapter highlights the key features and capabilities of ChatGPT, showcasing its potential to revolutionize customer support and streamline operations in the cleaning industry.
 

@@ -1,5 +1,4 @@
-Chapter: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Cleaning Service Management
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT offers cleaning service management companies a potent tool to improve customer satisfaction, optimize service delivery, and streamline their operations. This chapter showcases three case studies of cleaning service management companies that implemented ChatGPT and observed significant improvements in their business.
 

@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Cleaning Service Management
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Planning and designing ChatGPT for cleaning service management requires careful consideration of various factors. In this chapter, we will explore the process of planning and designing ChatGPT specifically tailored for the cleaning industry.
 

@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Works in Cleaning Service Management
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an AI-powered chatbot model that utilizes natural language processing (NLP) to understand and respond to customer inquiries. In the cleaning service management industry, ChatGPT can be leveraged to streamline communication with customers, automate routine tasks, and enhance the overall customer experience. This chapter explores how ChatGPT works in cleaning service management.
 

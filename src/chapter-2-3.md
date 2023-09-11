@@ -1,5 +1,4 @@
-Chapter: Types of Cleaning Service Techniques Used Today
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Cleaning service techniques have evolved over time to meet the diverse cleaning requirements of different environments and surfaces. This chapter explores various cleaning service techniques commonly employed in the cleaning industry today, highlighting their key features, applications, and effectiveness.
 

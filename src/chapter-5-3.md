@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Improve Cleaning Service Management
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Data plays a crucial role in the application of AI technologies, such as ChatGPT, in the cleaning industry. This chapter explores how ChatGPT utilizes data to improve cleaning service management, covering data collection, preprocessing, training, and the subsequent benefits for the industry.
 
